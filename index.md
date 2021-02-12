@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://www.google.com/search?q=virtual+paint&client=firefox-b-d&biw=1536&bih=750&tbm=isch&source=lnms&sa=X&ved=0ahUKEwin94WcleTuAhUpL6YKHdIPAj0Q_AUIDSgD#imgrc=r6x7qf46x13sYM)
+[Link](url) and ![Image](artem-sapegin-ZMraoOybTLQ-unsplash.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
