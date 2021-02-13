@@ -28,7 +28,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-![img](https://images.app.goo.gl/ZmZuWsskzpLik4k2A)
+![img](artem-sapegin-ZMraoOybTLQ-unsplash.jpg)
 
 ### Jekyll Themes
 
